@@ -12,7 +12,7 @@ I decided I wanted to build a floorplan mapping robot because:
 
 The backbone of the project right now is the HC-SR04 ultrasonic distance sensor, an inexpensive yet surprisingly accurate noncontact sensor. Much like other cheap sensors, there is not a large amount of formal documentation related to the sensor. Before I could get an accurate distance map, I needed to qualify the sensor so I created an engineering report.
 
-This report is found at [Engineering Report](https://meinacsworld.github.io/content/posts/Floorplan-Mapping-Robot-Whitepaper-Sensor-Qualification.pdf)
+This report is found at [Engineering Report](https://meinacsworld.github.io/static/Floorplan-Mapping-Robot-Whitepaper-Sensor-Qualification.pdf)
 
 
 The code is hosted at https://github.com/MEinaCSworld/Sensor-Qualification-Scripts
