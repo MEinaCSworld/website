@@ -2,30 +2,30 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Zack Wood - Engineer</title>
-    <link>http://example.org/</link>
+    <link>http://MEinaCSworld.github.io/</link>
     <description>Recent content on Zack Wood - Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>MIT©zzossig</copyright>
     <lastBuildDate>Tue, 12 Nov 2019 20:47:33 -0800</lastBuildDate>
     
-        <atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://MEinaCSworld.github.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Posts</title>
-      <link>http://example.org/posts/</link>
+      <link>http://MEinaCSworld.github.io/posts/</link>
       <pubDate>Wed, 13 Nov 2019 21:39:16 -0800</pubDate>
       
-      <guid>http://example.org/posts/</guid>
+      <guid>http://MEinaCSworld.github.io/posts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Abouts</title>
-      <link>http://example.org/about/</link>
+      <link>http://MEinaCSworld.github.io/about/</link>
       <pubDate>Tue, 12 Nov 2019 20:50:29 -0800</pubDate>
       
-      <guid>http://example.org/about/</guid>
+      <guid>http://MEinaCSworld.github.io/about/</guid>
       <description></description>
     </item>
     

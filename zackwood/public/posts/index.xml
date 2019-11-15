@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Zack Wood - Engineer</title>
-    <link>http://example.org/posts/</link>
+    <link>http://MEinaCSworld.github.io/posts/</link>
     <description>Recent content in Posts on Zack Wood - Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>MIT©zzossig</copyright>
     <lastBuildDate>Wed, 13 Nov 2019 21:39:16 -0800</lastBuildDate>
     
-        <atom:link href="http://example.org/posts/index.xml" rel="self" type="application/rss+xml" />
+        <atom:link href="http://MEinaCSworld.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>HC-SR04 Ultrasonic Distance Sensor Testing</title>
-      <link>http://example.org/posts/hc-sr04_testing/</link>
+      <link>http://MEinaCSworld.github.io/posts/hc-sr04_testing/</link>
       <pubDate>Wed, 13 Nov 2019 21:39:16 -0800</pubDate>
       
-      <guid>http://example.org/posts/hc-sr04_testing/</guid>
+      <guid>http://MEinaCSworld.github.io/posts/hc-sr04_testing/</guid>
       <description>Introduction I decided I wanted to build a floorplan mapping robot because: 1. It sounded like a fun side project. 2. Who doesn&amp;rsquo;t want to build robots.
 The backbone of the project right now is the HC-SR04 ultrasonic distance sensor, an inexpensive yet surprisingly accurate noncontact sensor. Much like other cheap sensors, there is not a large amount of formal documentation related to the sensor. Before I could get an accurate distance map, I needed to qualify the sensor so I created an engineering report.</description>
     </item>
     
     <item>
       <title>Simple visualizations to improve decisions</title>
-      <link>http://example.org/posts/simple-visualizations-to-defend-decisions/</link>
+      <link>http://MEinaCSworld.github.io/posts/simple-visualizations-to-defend-decisions/</link>
       <pubDate>Tue, 12 Nov 2019 20:01:45 -0800</pubDate>
       
-      <guid>http://example.org/posts/simple-visualizations-to-defend-decisions/</guid>
+      <guid>http://MEinaCSworld.github.io/posts/simple-visualizations-to-defend-decisions/</guid>
       <description>All of us have been confronted with a decision at work that has a lot of uncertainty surrounding it. Try as we might, we cannot always remove the clouds around the future before we make the decision. In situations like these, there is nobody that can make the decision with the best outcome every single time. The best that we can do is choose the pathway with the best expected outcome from the information available to us.</description>
     </item>
     

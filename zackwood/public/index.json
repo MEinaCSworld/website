@@ -1,6 +1,6 @@
 [
 {
-	"uri": "http://example.org/posts/hc-sr04_testing/",
+	"uri": "http://MEinaCSworld.github.io/posts/hc-sr04_testing/",
 	"title": "HC-SR04 Ultrasonic Distance Sensor Testing",
 	"tags": [],
 	"categories": [],
@@ -9,7 +9,7 @@
 	"content": " Introduction I decided I wanted to build a floorplan mapping robot because: 1. It sounded like a fun side project. 2. Who doesn\u0026rsquo;t want to build robots.\nThe backbone of the project right now is the HC-SR04 ultrasonic distance sensor, an inexpensive yet surprisingly accurate noncontact sensor. Much like other cheap sensors, there is not a large amount of formal documentation related to the sensor. Before I could get an accurate distance map, I needed to qualify the sensor so I created an engineering report.\nThis report is found at Engineering Report\nThe code is hosted at https://github.com/MEinaCSworld/Sensor-Qualification-Scripts\n"
 },
 {
-	"uri": "http://example.org/posts/",
+	"uri": "http://MEinaCSworld.github.io/posts/",
 	"title": "Posts",
 	"tags": [],
 	"categories": [],
@@ -18,7 +18,7 @@
 	"content": ""
 },
 {
-	"uri": "http://example.org/about/about-zack/",
+	"uri": "http://MEinaCSworld.github.io/about/about-zack/",
 	"title": "About Zack",
 	"tags": [""],
 	"categories": [],
@@ -27,7 +27,7 @@
 	"content": "Mechanical engineering background - Focused on customer driven product development.\nMy professional interests include product development, healthcare system improvement, and smart decision making in uncertain situations. I love to speak with customers and stakeholders about how to make things better.\nTo attack these problems, I employ a mixture of data visualization, process improvement strategies, and deep literature searches. Usually, I use Python with matplotlib or charting the process to illuminate the path for solving the problem at hand. "
 },
 {
-	"uri": "http://example.org/about/",
+	"uri": "http://MEinaCSworld.github.io/about/",
 	"title": "Abouts",
 	"tags": [],
 	"categories": [],
@@ -36,7 +36,7 @@
 	"content": ""
 },
 {
-	"uri": "http://example.org/",
+	"uri": "http://MEinaCSworld.github.io/",
 	"title": "",
 	"tags": [],
 	"categories": [],
@@ -45,7 +45,7 @@
 	"content": ""
 },
 {
-	"uri": "http://example.org/posts/simple-visualizations-to-defend-decisions/",
+	"uri": "http://MEinaCSworld.github.io/posts/simple-visualizations-to-defend-decisions/",
 	"title": "Simple visualizations to improve decisions",
 	"tags": [],
 	"categories": [],
