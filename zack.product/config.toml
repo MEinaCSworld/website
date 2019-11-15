@@ -1,0 +1,106 @@
+baseURL = "http://example.org"
+title = "Zack Wood - Product Minded Engineer"
+theme = "zzo"
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = true
+hasCJKLanguage = true
+
+summaryLength = 70
+
+googleAnalytics = ""
+copyright = "MIT©zzossig"
+timeout = 10000
+enableEmoji = true
+paginate = 7
+rssLimit = 100
+
+[outputs]
+  home = [ "HTML", "RSS", "JSON" ]
+
+[taxonomies]
+  #category = "categories"
+  #tag = "tags"
+  #series = "series"
+
+[params]
+  logoText = "Zack Wood"
+  description = ""
+  custom_css = ["css/custom.css", "scss/custom.scss"]
+  custom_js = ["js/custom.js"]
+  myname = "Zack Wood"
+  whoami = "Calm in the face of challenges (usually)"
+
+  # body
+  enableBreadcrumb = true
+  enablePhotoSwipe = true
+  enableSearch = true
+  enableMark = true
+  enableGoToTop = true
+  enableWhoami = true
+  summaryShape = "card" # card, classic, compact
+  archiveGroupByDate = "2006-01" # "2006-01": group by month, "2006": group by year
+
+  # sidebar
+  enableSidebar = false
+  enableSidebarTags = false
+  enableSidebarSeries = false
+  enableSidebarCategories = false
+  enableToc = true
+  itemsPerCategory = 5
+
+  # footer
+  showPoweredBy = false
+  showFeedLinks = false
+  showSocialLinks = true
+  enableLangChange = false
+  enableThemeChange = false
+  themeOptions = ["dark", "light", "hacker", "solarized", "custom"]
+
+  # comment
+  enableComment = false
+  disqus_shortname = ""
+  commento = false
+
+  [params.socialOptions]
+    email = "mailto:zack.wood.sandiego@gmail.com"
+    facebook = ""
+    twitter = ""
+    github = "https://github.com/MEinaCSworld"
+    stack-overflow = ""
+    instagram = ""
+    google-plus = ""
+    youtube = ""
+    medium = ""
+    tumblr = ""
+    linkedin = "https://www.linkedin.com/in/zack-wood-22065a91/"
+    pinterest = ""
+    stack-exchange = "https://physics.stackexchange.com/users/184984/zackwoodrd"
+
+[marketing]
+  google_analytics = ""
+  google_tag_manager = ""
+
+[languages]
+[languages.en]
+  title = "Zack Wood - Engineer"
+  languageName = "English"
+  weight = 1
+
+[[languages.en.menu.main]]
+  identifier = "about"
+  name = "about"
+  url = "about"
+  weight = 10
+
+#  [[languages.en.menu.main]]
+#    identifier = "gallery"
+#    name = "gallery"
+#    url = "gallery"
+#    weight = 12
+
+[[languages.en.menu.main]]
+  identifier = "posts"
+  name = "posts"
+  url = "posts"
+  weight = 13
