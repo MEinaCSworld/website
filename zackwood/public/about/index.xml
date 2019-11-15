@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Zack Wood - Engineer</title>
+    <link>http://example.org/about/</link>
+    <description>Recent content in Abouts on Zack Wood - Engineer</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <copyright>MIT©zzossig</copyright>
+    <lastBuildDate>Tue, 12 Nov 2019 20:50:29 -0800</lastBuildDate>
+    
+        <atom:link href="http://example.org/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Zack</title>
+      <link>http://example.org/about/about-zack/</link>
+      <pubDate>Tue, 12 Nov 2019 20:50:29 -0800</pubDate>
+      
+      <guid>http://example.org/about/about-zack/</guid>
+      <description>Mechanical engineering background - Focused on customer driven product development.
+My professional interests include product development, healthcare system improvement, and smart decision making in uncertain situations. I love to speak with customers and stakeholders about how to make things better.
+To attack these problems, I employ a mixture of data visualization, process improvement strategies, and deep literature searches. Usually, I use Python with matplotlib or charting the process to illuminate the path for solving the problem at hand.</description>
+    </item>
+    
+  </channel>
+</rss>
