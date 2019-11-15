@@ -1,5 +1,5 @@
 baseURL = "http://MEinaCSworld.github.io"
-title = "Zack Wood - Product Minded Engineer"
+title = "Zack Wood - User Focused Engineer"
 theme = "zzo"
 
 defaultContentLanguage = "en"
@@ -9,7 +9,7 @@ hasCJKLanguage = true
 summaryLength = 70
 
 googleAnalytics = ""
-copyright = "MIT©zzossig"
+copyright = "MIT © Zack Wood"
 timeout = 10000
 enableEmoji = true
 paginate = 7
