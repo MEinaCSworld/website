@@ -54,8 +54,8 @@ rssLimit = 100
   showFeedLinks = false
   showSocialLinks = true
   enableLangChange = false
-  enableThemeChange = false
-  themeOptions = ["dark", "light", "hacker", "solarized", "custom"]
+  enableThemeChange = true
+  themeOptions = ["dark", "light"]
 
   # comment
   enableComment = false
@@ -93,11 +93,17 @@ rssLimit = 100
   url = "about"
   weight = 10
 
-#  [[languages.en.menu.main]]
-#    identifier = "gallery"
-#    name = "gallery"
-#    url = "gallery"
-#    weight = 12
+#[[languages.en.menu.main]]
+#    identifier = "resumé"
+#    name = "resumé"
+#    url = "resume"
+#    weight = 11
+
+[[languages.en.menu.main]]
+    identifier = "gallery"
+    name = "gallery"
+    url = "gallery"
+    weight = 12
 
 [[languages.en.menu.main]]
   identifier = "posts"
