@@ -26,6 +26,7 @@ All of us have been confronted with a decision at work that has a lot of uncerta
  The first plot is generated in Python3 with the code shown below. Seaborn is not necessary but it does help to spruce up the plot a bit. Aesthetics of plots can be critical to understanding them so investing the small amount of time to make plots look pretty can pay dividends down the road.
 
  ```python
+
 import matplotlib.pyplot as plt
 import seaborn as sns
 
