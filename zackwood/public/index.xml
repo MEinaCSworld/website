@@ -5,7 +5,7 @@
     <link>http://MEinaCSworld.github.io/</link>
     <description>Recent content on Zack Wood - Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
-    <copyright>MIT©zzossig</copyright>
+    <copyright>MIT © Zack Wood</copyright>
     <lastBuildDate>Tue, 12 Nov 2019 20:47:33 -0800</lastBuildDate>
     
         <atom:link href="http://MEinaCSworld.github.io/index.xml" rel="self" type="application/rss+xml" />
@@ -31,10 +31,10 @@
     
     <item>
       <title>Galleries</title>
-      <link></link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <link>http://MEinaCSworld.github.io/gallery/</link>
+      <pubDate>Sun, 10 Nov 2019 07:44:37 -0800</pubDate>
       
-      <guid></guid>
+      <guid>http://MEinaCSworld.github.io/gallery/</guid>
       <description></description>
     </item>
     

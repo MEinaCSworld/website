@@ -38,7 +38,7 @@ yAx = (-1,1)
 ySpace = (yAx[1] - yAx[0]) / (len(labels+2))
 
 with sns.cubehelix_palette(8, start=.9, rot=0, dark=0, light=.95, reverse=True):
-    fig,ax = plt.subplots(1,1)
+  fig,ax = plt.subplots(1,1)
 
 for i in range(len(labels)):
   y = yAx[1] - ySpace * i

@@ -103,6 +103,9 @@
     <a href="/about" class="navbar__menu-item">about</a>
     
     
+    <a href="/gallery" class="navbar__menu-item">gallery</a>
+    
+    
     <a href="/posts" class="navbar__menu-item">posts</a>
     
     
@@ -132,6 +135,66 @@
 
             <footer class="footer">
     <div class="footer__wrapper">
+        
+        <div class="footer__theme">
+            <label class="label p2">Theme</label>
+<div class="dropdown">
+  <button class="dropdown-trigger">
+    <span class="select-theme__label caption">
+      
+        dark
+      
+    </span>
+    <svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 24 24"><path fill="currentColor" d="M8.12 14.71L12 10.83l3.88 3.88c.39.39 1.02.39 1.41 0 .39-.39.39-1.02 0-1.41L12.7 8.71c-.39-.39-1.02-.39-1.41 0L6.7 13.3c-.39.39-.39 1.02 0 1.41.39.38 1.03.39 1.42 0z"/></svg>
+  </button>
+  <div class="dropdown-content select-theme">
+    
+      
+      <a href="#" class="dropdown-item select-theme__item is-active">
+        dark
+      </a>
+      
+      <a href="#" class="dropdown-item select-theme__item ">
+        light
+      </a>
+      
+    
+  </div>
+</div>
+<script>
+  
+  var localTheme = localStorage.getItem('theme');
+  if (localTheme) {
+    $('.select-theme__label').text(localTheme);
+    $('.select-theme__item').each(function() {
+      $(this).removeClass('is-active');
+    });
+    $(`.select-theme a:contains("${localTheme}")`).addClass('is-active');
+  }
+
+  $('.select-theme__item').click(function (e) {
+    var selectedThemeVariant = $(e.target).text().trim();
+    var currentThemeVariant = $('.select-theme__label').text().trim();    
+    localStorage.setItem('theme', selectedThemeVariant);
+
+    $('.select-theme__label').text(selectedThemeVariant);
+    $('#root').removeClass(`theme__${currentThemeVariant}`).addClass(`theme__${selectedThemeVariant}`);
+    var nodes = $('.select-theme').children('.dropdown-item');
+
+    nodes.each(function () {
+      if ($(this).text().trim() === selectedThemeVariant) {
+        if (!$(this).hasClass('is-active')) {
+          $(this).addClass('is-active');          
+        }
+      } else {
+        if ($(this).hasClass('is-active')) {
+          $(this).removeClass('is-active');
+        }
+      }
+    });
+  });
+</script>
+        </div>            
         
         
         
