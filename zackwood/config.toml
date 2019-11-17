@@ -78,7 +78,7 @@ rssLimit = 100
     stack-exchange = "https://physics.stackexchange.com/users/184984/zackwoodrd"
 
 [marketing]
-  google_analytics = ""
+  google_analytics = "UA-152703936-1"
   google_tag_manager = ""
 
 [languages]
