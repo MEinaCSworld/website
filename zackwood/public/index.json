@@ -1,12 +1,12 @@
 [
 {
-	"uri": "http://MEinaCSworld.github.io/posts/hc-sr04_testing/",
-	"title": "HC-SR04 Ultrasonic Distance Sensor Testing",
+	"uri": "http://MEinaCSworld.github.io/posts/piriformis-syndrome/",
+	"title": "Piriformis Syndrome",
 	"tags": [],
 	"categories": [],
 	"series": [],
 	"description": "",
-	"content": " Introduction I decided I wanted to build a floorplan mapping robot because: 1. It sounded like a fun side project. 2. Who doesn\u0026rsquo;t want to build robots.\nThe backbone of the project right now is the HC-SR04 ultrasonic distance sensor, an inexpensive yet surprisingly accurate noncontact sensor. Much like other cheap sensors, there is not a large amount of formal documentation related to the sensor. Before I could get an accurate distance map, I needed to qualify the sensor so I created an engineering report.\nThis report is found at Engineering Report\nThe code is hosted at https://github.com/MEinaCSworld/Sensor-Qualification-Scripts\n"
+	"content": " Background Approximately 6% of patients with sciatic nerve pain have piriformis syndrome Source. Sciatic nerve pain is often debilitating, leading to symptoms such as extreme pain, numbness, and weakness. After my experience dealing with piriformis syndrome long term I would define piriformis syndrome as an unmet medical need.] because there is not an extensive playbook that clinicians have to help their patients.\nIn piriformis syndrome, the piriformis muscle irritates the sciatic nerve leading to symptoms such as pain, numbness, and weakness down the leg. \u0026ldquo;In as much as 22% of the population, the sciatic nerve pierces the piriformis muscle, splits the piriformis muscle, or both, predisposing these individuals to piriformis syndrome. The sciatic nerve may pass completely through the muscle belly, or the nerve may split—with one branch (usually the fibular portion) piercing the muscle and the other branch (usually the tibial portion) running inferiorly or superiorly along the muscle\u0026rdquo; Source. The best practice treatments are stretching, physical therapy, and steroid injection. Steroid injection has long been treated as a conservative treatment option, but recent evidence from Boston University as shown otherwise. While these can resolve most cases, there are many cases that do not clear and impact the quality of life of the patients living with the syndrome. Surgery is considered a last resort for piriformis syndrome, and has a poorer significantly longer recovery than other common sciatic pain relief surgeries such as microdiscectomy. This is because the tissue surrounding the piriformis is typically cut away, leading to a recovery time of 3-4 months even when done endoscopically.\nAlternative treatments? Approximately 80% of cases clear up with conservative treatment Source. Where does that leave the rest of us? If pain is your issue some find relief with TENS, but clinical evidence for TENS is not particularly strong. For patients like myself with numbness and weakness rather than pain there is not a treatment method with a good risk profile. From the above rates of occurrence, approximately 1% of patients presenting with sciatic nerve pain have piriformis syndrome that does not resolve with conservative treatment (6% of sciatic nerve pain multiplied by 20% of cases not resolving with conservative treatment).\nPrevalence It is difficult to estimate the number of piriformis syndrome cases annually as the reporting and diagnosis is not effective, but I will give it my best shot. Sciatic nerve irritation accounts for ~5-10% of low back pain annually Source. Of that, 6% is likely piriformis syndrome (0.3%-0.6%). Prevalence estimates of low back pain in the U.S. range from 1.4%-15.6% Literature Review of Low Back Pain. This indicates a range of 0.004%-0.094% prevalence of piriformis syndrome. This puts the range estimate for patients at ~13,000-300,000 people living with piriformis syndrome, with at 3,000-60,000 having cases that will not clear up with conservative treatment.\nDoes this represent a market opportunity? The market is too small for a device that requires a PMA from the FDA unless the price is very high. Currently, some pharmacological treatments exist but they are not targeted specifically at piriformis. The density of patients needing more than conservative treatment is very low even with the high end estimate of 60,000 people living with pain. Diagnosis is difficult because the symptoms are commonly shared with bulging/herniated discs, meaning many patients that could benefit would not even have the chance to know what is ailing them. These barriers likely mean that there will not be a device or treatment that specifically targets piriformis syndrome coming to the market and any general nervous system/muscle spasm treatment will think of the piriformis as a distant afterthought. Until the incentives shift enough to bring about new treatment modalities, massage therapy and stretching will remain the best way to tend to this pain in the butt.\n"
 },
 {
 	"uri": "http://MEinaCSworld.github.io/posts/",
@@ -18,22 +18,13 @@
 	"content": ""
 },
 {
-	"uri": "http://MEinaCSworld.github.io/about/about-zack/",
-	"title": "About Zack",
-	"tags": [""],
-	"categories": [],
-	"series": [""],
-	"description": "",
-	"content": "Mechanical engineering background - Focused on customer driven product development.\nMy professional interests include product development, healthcare system improvement, and smart decision making in uncertain situations. I love to speak with customers and stakeholders about how to make things better.\nTo attack these problems, I employ a mixture of data visualization, process improvement strategies, and deep literature searches. Usually, I use Python with matplotlib or charting the process to illuminate the path for solving the problem at hand. "
-},
-{
-	"uri": "http://MEinaCSworld.github.io/about/",
-	"title": "Abouts",
+	"uri": "http://MEinaCSworld.github.io/posts/hc-sr04_testing/",
+	"title": "HC-SR04 Ultrasonic Distance Sensor Testing",
 	"tags": [],
 	"categories": [],
 	"series": [],
 	"description": "",
-	"content": ""
+	"content": " Introduction I decided I wanted to build a floorplan mapping robot because: 1. It sounded like a fun side project. 2. Who doesn\u0026rsquo;t want to build robots.\nThe backbone of the project right now is the HC-SR04 ultrasonic distance sensor, an inexpensive yet surprisingly accurate noncontact sensor. Much like other cheap sensors, there is not a large amount of formal documentation related to the sensor. Before I could get an accurate distance map, I needed to qualify the sensor so I created an engineering report.\nThis report is found at Engineering Report\nThe code is hosted at https://github.com/MEinaCSworld/Sensor-Qualification-Scripts\n"
 },
 {
 	"uri": "http://MEinaCSworld.github.io/",
@@ -52,6 +43,24 @@
 	"series": [],
 	"description": "",
 	"content": " All of us have been confronted with a decision at work that has a lot of uncertainty surrounding it. Try as we might, we cannot always remove the clouds around the future before we make the decision. In situations like these, there is nobody that can make the decision with the best outcome every single time. The best that we can do is choose the pathway with the best expected outcome from the information available to us. But how do we find the best route forward? I have developed a process from myself taking heavy inspiration from Annie Duke\u0026rsquo;s book Thinking in Bets and Daniel Kahneman\u0026rsquo;s book Thinking, Fast and Slow as well as a few dozen academic papers on decision making that I did not bother to write down (they were less influential than the books).\nThis process consists of four steps:  Collect forecasts from team members in writing prior to meeting.\n Compile forecasts into simple visuals depicting where the team stands on important issues.\n Meet with the team to go over the results and learn why certain forecasts were made.\n Make a decision.\n  Below is an example of a ludicrously simple plot style I have generated to help myself gauge uncertain decisions with large consequences. This example is for a fictitious product development cycle that nobody on the team feels comfortable with any of the forecasts. By compiling everyone\u0026rsquo;s thoughts into one visual, the teams thinking can be understood. The first plot is generated in Python3 with the code shown below. Seaborn is not necessary but it does help to spruce up the plot a bit. Aesthetics of plots can be critical to understanding them so investing the small amount of time to make plots look pretty can pay dividends down the road.\nimport matplotlib.pyplot as plt import seaborn as sns sns.set(style = 'dark') labels = ['Zack', 'Gertrude', 'Ali', 'Rachel'] forecast = ((100,200),(200,300),(100,300),(150,250)) yAx = (-1,1) ySpace = (yAx[1] - yAx[0]) / (len(labels+2)) with sns.cubehelix_palette(8, start=.9, rot=0, dark=0, light=.95, reverse=True): fig,ax = plt.subplots(1,1) for i in range(len(labels)): y = yAx[1] - ySpace * i sns.scatterplot(forecast[i], (y,y), label = labels[i], ax = ax, s = 100 ) sns.lineplot(forecast[i],(y,y)) ax.get_yaxis().set_ticks([]) ax.set(xlabel = 'Units Sold')  These plots serve three purposes:  It helps you to gather everyone\u0026rsquo;s thoughts without influencing their input. One common phenomena in a planning or brainstorming meeting is people not feeling comfortable sharing their opinion or having their opinion influenced by authority figures such as management.\n Collecting everyone\u0026rsquo;s thoughts allows for you to make a decision that is not a consensus decision. Dissent is formalized and your thinking will automatically be challenged by collecting forecasts.\n You have an easily understandable record of your decision making should anyone ask you to defend your decision. If your process is robust, dealing with the fallout from a poor result is much easier than if you decided to recklessly charge forward.\n  If you have any questions about this process please send me an email or a LinkedIn message from the bottom of the site!\n"
+},
+{
+	"uri": "http://MEinaCSworld.github.io/about/about-zack/",
+	"title": "About Zack",
+	"tags": [""],
+	"categories": [],
+	"series": [""],
+	"description": "",
+	"content": "Mechanical engineering background - Focused on customer driven product development.\nMy professional interests include product development, healthcare system improvement, and smart decision making in uncertain situations. I love to speak with customers and stakeholders about how to make things better.\nTo attack these problems, I employ a mixture of data visualization, process improvement strategies, and deep literature searches. Usually, I use Python with matplotlib or charting the process to illuminate the path for solving the problem at hand. "
+},
+{
+	"uri": "http://MEinaCSworld.github.io/about/",
+	"title": "Abouts",
+	"tags": [],
+	"categories": [],
+	"series": [],
+	"description": "",
+	"content": ""
 },
 {
 	"uri": "http://MEinaCSworld.github.io/gallery/mygallery/",

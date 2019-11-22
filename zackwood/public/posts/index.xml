@@ -1,15 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Zack Wood - Engineer</title>
+    <title>Posts on Zack Wood - User Focused Engineer</title>
     <link>http://MEinaCSworld.github.io/posts/</link>
-    <description>Recent content in Posts on Zack Wood - Engineer</description>
+    <description>Recent content in Posts on Zack Wood - User Focused Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>MIT © Zack Wood</copyright>
-    <lastBuildDate>Wed, 13 Nov 2019 21:39:16 -0800</lastBuildDate>
+    <lastBuildDate>Sat, 16 Nov 2019 16:46:00 -0800</lastBuildDate>
     
         <atom:link href="http://MEinaCSworld.github.io/posts/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Piriformis Syndrome</title>
+      <link>http://MEinaCSworld.github.io/posts/piriformis-syndrome/</link>
+      <pubDate>Sat, 16 Nov 2019 16:46:00 -0800</pubDate>
+      
+      <guid>http://MEinaCSworld.github.io/posts/piriformis-syndrome/</guid>
+      <description>Background Approximately 6% of patients with sciatic nerve pain have piriformis syndrome Source. Sciatic nerve pain is often debilitating, leading to symptoms such as extreme pain, numbness, and weakness. After my experience dealing with piriformis syndrome long term I would define piriformis syndrome as an unmet medical need.] because there is not an extensive playbook that clinicians have to help their patients.
+In piriformis syndrome, the piriformis muscle irritates the sciatic nerve leading to symptoms such as pain, numbness, and weakness down the leg.</description>
+    </item>
     
     <item>
       <title>HC-SR04 Ultrasonic Distance Sensor Testing</title>

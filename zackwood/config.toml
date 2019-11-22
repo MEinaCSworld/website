@@ -83,7 +83,7 @@ rssLimit = 100
 
 [languages]
 [languages.en]
-  title = "Zack Wood - Engineer"
+  title = "Zack Wood - User Focused Engineer"
   languageName = "English"
   weight = 1
 
@@ -93,11 +93,11 @@ rssLimit = 100
   url = "about"
   weight = 10
 
-#[[languages.en.menu.main]]
-#    identifier = "resumé"
-#    name = "resumé"
-#    url = "resume"
-#    weight = 11
+[[languages.en.menu.main]]
+    identifier = "resumé"
+    name = "resumé"
+    url = "images/Zack-Wood-Resume-Engineering.pdf"
+    weight = 11
 
 [[languages.en.menu.main]]
     identifier = "gallery"

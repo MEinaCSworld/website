@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Zack Wood - Engineer</title>
+    <title>Zack Wood - User Focused Engineer</title>
     <link>http://MEinaCSworld.github.io/</link>
-    <description>Recent content on Zack Wood - Engineer</description>
+    <description>Recent content on Zack Wood - User Focused Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>MIT © Zack Wood</copyright>
     <lastBuildDate>Tue, 12 Nov 2019 20:47:33 -0800</lastBuildDate>
@@ -14,7 +14,7 @@
     <item>
       <title>Posts</title>
       <link>http://MEinaCSworld.github.io/posts/</link>
-      <pubDate>Wed, 13 Nov 2019 21:39:16 -0800</pubDate>
+      <pubDate>Sat, 16 Nov 2019 16:46:00 -0800</pubDate>
       
       <guid>http://MEinaCSworld.github.io/posts/</guid>
       <description></description>
@@ -23,7 +23,7 @@
     <item>
       <title>Abouts</title>
       <link>http://MEinaCSworld.github.io/about/</link>
-      <pubDate>Tue, 12 Nov 2019 20:50:29 -0800</pubDate>
+      <pubDate>Sun, 10 Nov 2019 20:50:29 -0800</pubDate>
       
       <guid>http://MEinaCSworld.github.io/about/</guid>
       <description></description>

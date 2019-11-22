@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Abouts on Zack Wood - Engineer</title>
+    <title>Abouts on Zack Wood - User Focused Engineer</title>
     <link>http://MEinaCSworld.github.io/about/</link>
-    <description>Recent content in Abouts on Zack Wood - Engineer</description>
+    <description>Recent content in Abouts on Zack Wood - User Focused Engineer</description>
     <generator>Hugo -- gohugo.io</generator>
     <copyright>MIT © Zack Wood</copyright>
-    <lastBuildDate>Tue, 12 Nov 2019 20:50:29 -0800</lastBuildDate>
+    <lastBuildDate>Sun, 10 Nov 2019 20:50:29 -0800</lastBuildDate>
     
         <atom:link href="http://MEinaCSworld.github.io/about/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>About Zack</title>
       <link>http://MEinaCSworld.github.io/about/about-zack/</link>
-      <pubDate>Tue, 12 Nov 2019 20:50:29 -0800</pubDate>
+      <pubDate>Sun, 10 Nov 2019 20:50:29 -0800</pubDate>
       
       <guid>http://MEinaCSworld.github.io/about/about-zack/</guid>
       <description>Mechanical engineering background - Focused on customer driven product development.
