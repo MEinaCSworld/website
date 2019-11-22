@@ -1,7 +1,7 @@
 ---
 title: "Piriformis Syndrome"
 date: 2019-11-16T16:46:00-08:00
-draft: true
+draft: false
 ---
 
 ### Background
