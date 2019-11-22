@@ -63,7 +63,7 @@ rssLimit = 100
   commento = false
 
   [params.socialOptions]
-    email = "mailto:zack.wood.sandiego@gmail.com"
+    email = "mailto:zack@zackwood.info"
     facebook = ""
     twitter = ""
     github = "https://github.com/MEinaCSworld"
